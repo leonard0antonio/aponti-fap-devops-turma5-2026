@@ -20,14 +20,17 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 
 <!-- TABELA-INICIO -->
 
-Aguardando contribuições...
 
+| Avatar | Nome | GitHub | Cidade | LinkedIn |
+| ------ | ---- | ------ | ------ | -------- |
+| ;     |      |        |        |          |
 <!-- TABELA-FIM -->
 
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-
 Total de alunos cadastrados: 0
+
+Última atualização: 18/06/2026, 11:29
 
 <!-- ESTATISTICAS-FIM -->
