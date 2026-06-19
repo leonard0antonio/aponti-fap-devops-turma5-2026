@@ -21,8 +21,10 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | Avatar | Nome | GitHub | Cidade | LinkedIn |
 |---------|---------|---------|---------|---------|
 | <img src="https://github.com/carlhenriquex.png" width="50"> | Carlos Henrique | [@carlhenriquex](https://github.com/carlhenriquex) | São Lourenço da Mata | [Perfil](https://linkedin.com/in/carloshenriquex) |
+| <img src="https://github.com/DiegoSouzaTech.png" width="50"> | Diego Kauã | [@DiegoSouzaTech](https://github.com/DiegoSouzaTech) | Recife-PE | [Perfil](https://www.linkedin.com/in/diego-souza-411bb8359/) |
 | <img src="https://github.com/fililpe.png" width="50"> | Filipe Sousa | [@fililpe](https://github.com/fililpe) | Recife | [Perfil](https://linkedin.com/in/luizfilipesousa) |
 | <img src="https://github.com/LucasEmmanoel06.png" width="50"> | Lucas Emmanoel | [@LucasEmmanoel06](https://github.com/LucasEmmanoel06) | Recife | [Perfil](https://linkedin.com/in/lucasemalbuquerque) |
+| <img src="https://github.com/https://github.com/LucasMadureiro.png" width="50"> | Lucas Madureiro | [@https://github.com/LucasMadureiro](https://github.com/https://github.com/LucasMadureiro) | Paulista | [Perfil](https://www.linkedin.com/in/lucas-madureiro-matias-6946a8277/) |
 | <img src="https://github.com/nhsneto.png" width="50"> | Nelson Neto | [@nhsneto](https://github.com/nhsneto) | Paulista | [Perfil](https://linkedin.com/in/nhsneto) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
 | <img src="https://github.com/victorjls21.png" width="50"> | Victor Julius | [@victorjls21](https://github.com/victorjls21) | Olinda | [Perfil](https://linkedin.com/in/victor-julius) |
@@ -32,8 +34,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 6
+Total de alunos cadastrados: 8
 
-Última atualização: 19/06/2026, 22:56
+Última atualização: 19/06/2026, 23:00
 
 <!-- ESTATISTICAS-FIM -->
