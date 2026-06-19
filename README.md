@@ -22,6 +22,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 |---------|---------|---------|---------|---------|
 | <img src="https://github.com/carlhenriquex.png" width="50"> | Carlos Henrique | [@carlhenriquex](https://github.com/carlhenriquex) | São Lourenço da Mata | [Perfil](https://linkedin.com/in/carloshenriquex) |
 | <img src="https://github.com/DiegoSouzaTech.png" width="50"> | Diego Kauã | [@DiegoSouzaTech](https://github.com/DiegoSouzaTech) | Recife-PE | [Perfil](https://www.linkedin.com/in/diego-souza-411bb8359/) |
+| <img src="https://github.com/ellenyass.png" width="50"> | Ellen Nunes | [@ellenyass](https://github.com/ellenyass) | Olinda | [Perfil](https://www.linkedin.com/in/ellen-nunes-40b6b524a/) |
 | <img src="https://github.com/fililpe.png" width="50"> | Filipe Sousa | [@fililpe](https://github.com/fililpe) | Recife | [Perfil](https://linkedin.com/in/luizfilipesousa) |
 | <img src="https://github.com/Gabriel-Garabedian.png" width="50"> | Gabriel da SilvaDer Garabedian | [@Gabriel-Garabedian](https://github.com/Gabriel-Garabedian) | Jaboatõa dos Guararapes  | [Perfil](https://www.linkedin.com/in/garabedi4n) |
 | <img src="https://github.com/LucasEmmanoel06.png" width="50"> | Lucas Emmanoel | [@LucasEmmanoel06](https://github.com/LucasEmmanoel06) | Recife | [Perfil](https://linkedin.com/in/lucasemalbuquerque) |
@@ -38,8 +39,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 12
+Total de alunos cadastrados: 13
 
-Última atualização: 19/06/2026, 23:11
+Última atualização: 19/06/2026, 23:14
 
 <!-- ESTATISTICAS-FIM -->
